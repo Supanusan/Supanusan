@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Supanusan.T</h1>
-<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
+<h3 align="center">A passionate fullstack developer from Sri Lanka</h3>
 
 - 🔭 I’m currently **A student Of Rajarata university**
 
